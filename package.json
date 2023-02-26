@@ -90,6 +90,9 @@
     "build": "node scripts/build.js",
     "test": "node scripts/test.js"
   },
+  "engines": {
+    "node": "16.x"
+  },
   "eslintConfig": {
     "extends": "react-app"
   },
