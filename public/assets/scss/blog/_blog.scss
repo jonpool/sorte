@@ -17,7 +17,7 @@ Blog Styles
                 @extend %transition;
             }
             &::after {
-                background: linear-gradient(to bottom, #fcfafb 0, #000000 100%);
+                background: linear-gradient(to bottom, #474747 10%, #000000 100%);
                 position: absolute;
                 left: 0;
                 right: 0;
